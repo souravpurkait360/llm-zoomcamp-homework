@@ -6,3 +6,4 @@ uv.lock
 pyproject.toml
 .python-version
 rag_helper.py
+models/

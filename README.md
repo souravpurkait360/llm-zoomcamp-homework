@@ -10,7 +10,7 @@ instructions.
 | # | Module | Solution |
 |---|--------|----------|
 | 1 | Agentic RAG | [`01-agentic-rag/`](01-agentic-rag/) |
-| 2 | Vector Search | _coming soon_ |
+| 2 | Vector Search | [`02-vector-search/`](02-vector-search/) |
 | 3 | Orchestration | _coming soon_ |
 | 4 | Evaluation | _coming soon_ |
 | 5 | Monitoring | _coming soon_ |
