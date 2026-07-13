@@ -13,6 +13,6 @@ instructions.
 | 2 | Vector Search | [`02-vector-search/`](02-vector-search/) |
 | 3 | Orchestration | _coming soon_ |
 | 4 | Evaluation | [`04-evaluation/`](04-evaluation/) |
-| 5 | Monitoring | _coming soon_ |
+| 5 | Monitoring | [`05-monitoring/`](05-monitoring/) |
 | 6 | Best Practices | _coming soon_ |
 | 7 | Project Example | _coming soon_ |
