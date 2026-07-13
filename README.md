@@ -12,7 +12,7 @@ instructions.
 | 1 | Agentic RAG | [`01-agentic-rag/`](01-agentic-rag/) |
 | 2 | Vector Search | [`02-vector-search/`](02-vector-search/) |
 | 3 | Orchestration | _coming soon_ |
-| 4 | Evaluation | _coming soon_ |
+| 4 | Evaluation | [`04-evaluation/`](04-evaluation/) |
 | 5 | Monitoring | _coming soon_ |
 | 6 | Best Practices | _coming soon_ |
 | 7 | Project Example | _coming soon_ |
